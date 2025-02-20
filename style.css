@@ -2,6 +2,8 @@ body {
     background-color: aliceblue;
 }
 H1 {
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     size: 30cm;
     color: orange
 }
@@ -10,4 +12,10 @@ H2 {
 }
 H3 {
     color: red
+}
+a {
+    color: orange;
+}
+a:hover {
+    color:green
 }
